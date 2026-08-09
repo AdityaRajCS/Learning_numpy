@@ -10,7 +10,7 @@ This repository contains both:
 
 1. [What is NumPy?](1_whatsNumPy.ipynb)
 2. [Creating Arrays](2_creatingArrays.ipynb)
-3. [Array Properties & Attributes](3_props&attr.ipynb)
+3. [Array Properties & Attributes](3_propsAndAttributes.ipynb)
 4. [Python Lists vs NumPy Arrays](4_arraysVsLists.ipynb)
 5. [Indexing, Slicing & Iteration](5_indxSliceIterat.ipynb)
 6. [Array Operations](6_operations.ipynb)
@@ -22,7 +22,7 @@ This repository contains both:
    - [Reshaping Notes 4](8.4_reshaping.ipynb)
    - [Reshaping Notes 5](8.5_reshaping.ipynb)
    - [Reshaping Notes 6](8.6_reshaping.ipynb)
-9. [Fancy & Boolean Indexing](9_fancy&boolIndexing.ipynb)
+9. [Fancy & Boolean Indexing](9_fancyAndBoolIndexing.ipynb)
 10. [Fancy Indexing Notes](10_fancyIndexingNotes.ipynb)
 11. [Plotting & Graphs](11_plottingGraphs.ipynb)
     - [Plotting Notes](11.1_plottingNotes.ipynb)
@@ -30,13 +30,13 @@ This repository contains both:
     - [Broadcasting Notes](12.1_broadcastingNotes.ipynb)
 13. [Important NumPy Functions](13_importantFuncs.ipynb)
 
-## What I'm Learning
+## Concepts
 
 Some of the concepts covered include:
 
 - NumPy arrays and dimensions
 - Array creation
-- `shape`, `ndim`, `size`, `dtype`, `nbytes`, etc.
+- Array properties and attributes
 - Indexing and slicing
 - Boolean and fancy indexing
 - Mathematical and matrix operations
@@ -45,12 +45,13 @@ Some of the concepts covered include:
 - Broadcasting
 - Array splitting and joining
 - Random number generation
-- Plotting with NumPy/Matplotlib
+- Plotting with NumPy and Matplotlib
 - Useful NumPy functions
 
 ## Purpose
 
-This repository is primarily a **learning and revision resource**.  
+This repository is primarily a **learning and revision resource**.
+
 The notebooks contain my experiments, examples, observations, and notes as I learn NumPy.
 
 I will continue adding to and improving this repository as I learn more.
