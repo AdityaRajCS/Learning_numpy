@@ -11,7 +11,7 @@ studied the underlying NumPy concepts, and then implemented the solution myself.
 
 ## Progress
 
-**40 / 100 exercises completed**
+**60 / 100 exercises completed**
 
 ## Source
 
